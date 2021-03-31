@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209788264793",
+    "project_id": "astra-cold-storage-delivery",
+    "storage_bucket": "astra-cold-storage-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209788264793:android:9082a9d0cd4f0de6362c48",
+        "android_client_info": {
+          "package_name": "com.astra.coldstoragedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209788264793-rqt2q9p2u910l3hbiigv5042qq424ub4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYA7t0d9xeWNynxCIbJcZzgZJOFVP6EpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209788264793-rqt2q9p2u910l3hbiigv5042qq424ub4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
